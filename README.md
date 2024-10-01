@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Podcast Acessibilidade Digital (Inclusão para todos)
 
-## 🚀 Introdução
+## O que é? 🤓
 
-> Woooow! Look at this 👀
+Este projeto faz parte da trilha Microsoft Copilot AI da Digital Innovation One. Tem como finalidade utilizar tecnologias de IA para criar novas ideias e materializá-las em recursos como: ebooks, podcasts ou até mesmo em vídeos.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## Resultado
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Como resultado o projeto entrega um podcast que fala sobre a **acessibilidade digital** e a sua importância para as pessoas com deficiência. O podcast está na pasta /podcast do projeto em formato de áudio (.mp3).
 
-### Objetivos
+## Tecnologias utilizadas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+* [Chat GPT](https://chat.openai.com)
+* [ElevenLabs](https://elevenlabs.io/)
+* Reapper
 
-### Template
+## Reflexão
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+    Atualmente o processo criativo tornou-se simplificado. Temos em nossas mãos o poder de milhares de ideias que podemos sintetizar e obter tudo em apenas um prompt. Tecnologias de IA generativas e tech to speech nos permitem ter um ganho excepcional de produtividade focando principalmente em agregar valor e simplificar os processos.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## Redes sociais
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+* [Linkedin](https://linkedin.com/gfernandessantos)
+* [Github](https://github.com/gfsantos2)
